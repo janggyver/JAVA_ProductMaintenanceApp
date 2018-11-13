@@ -1,0 +1,2 @@
+java	Murach's Java	49.5
+android	Eric's Androdi	100.48
