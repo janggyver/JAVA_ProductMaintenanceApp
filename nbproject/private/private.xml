@@ -3,7 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/F:/Java/ProductMaintenanceApp/products.dtd</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/src/ProductMaintenance/business/ProductConstants.java</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/src/ProductMaintenance/business/ProductXMLFile.java</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/src/ProductMaintenance/business/ProductReader.java</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/products.txt</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/src/ProductMaintenance/business/ProductDAO.java</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/dist/README.TXT</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/products.xsd</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/src/ProductMaintenance/business/DAOFactory.java</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/src/ProductMaintenance/ui/ProductMaintFrame.java</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/build.xml</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/src/ProductMaintenance/business/Product.java</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/manifest.mf</file>
             <file>file:/F:/Java/ProductMaintenanceApp/products.xml</file>
+            <file>file:/F:/Java/ProductMaintenanceApp/src/ProductMaintenance/business/ProductWriter.java</file>
         </group>
     </open-files>
 </project-private>

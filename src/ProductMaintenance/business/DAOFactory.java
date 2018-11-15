@@ -12,7 +12,8 @@ package ProductMaintenance.business;
 public class DAOFactory {
     public static ProductDAO getProductDAO(){
         //ProductDAO pDAO = new ProductTextFile();
-         ProductDAO pDAO = new ProductXMLFile();
+        // ProductDAO pDAO = new ProductXMLFile();
+        ProductDAO pDAO = new ProductDB();
         return pDAO;
     }
 
